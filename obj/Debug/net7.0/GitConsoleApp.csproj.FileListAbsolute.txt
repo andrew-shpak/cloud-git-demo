@@ -1,0 +1,15 @@
+/Users/andrewshpak/Lessons/Git/GitConsoleApp/bin/Debug/net7.0/GitConsoleApp
+/Users/andrewshpak/Lessons/Git/GitConsoleApp/bin/Debug/net7.0/GitConsoleApp.deps.json
+/Users/andrewshpak/Lessons/Git/GitConsoleApp/bin/Debug/net7.0/GitConsoleApp.runtimeconfig.json
+/Users/andrewshpak/Lessons/Git/GitConsoleApp/bin/Debug/net7.0/GitConsoleApp.dll
+/Users/andrewshpak/Lessons/Git/GitConsoleApp/bin/Debug/net7.0/GitConsoleApp.pdb
+/Users/andrewshpak/Lessons/Git/GitConsoleApp/obj/Debug/net7.0/GitConsoleApp.csproj.AssemblyReference.cache
+/Users/andrewshpak/Lessons/Git/GitConsoleApp/obj/Debug/net7.0/GitConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andrewshpak/Lessons/Git/GitConsoleApp/obj/Debug/net7.0/GitConsoleApp.AssemblyInfoInputs.cache
+/Users/andrewshpak/Lessons/Git/GitConsoleApp/obj/Debug/net7.0/GitConsoleApp.AssemblyInfo.cs
+/Users/andrewshpak/Lessons/Git/GitConsoleApp/obj/Debug/net7.0/GitConsoleApp.csproj.CoreCompileInputs.cache
+/Users/andrewshpak/Lessons/Git/GitConsoleApp/obj/Debug/net7.0/GitConsoleApp.dll
+/Users/andrewshpak/Lessons/Git/GitConsoleApp/obj/Debug/net7.0/refint/GitConsoleApp.dll
+/Users/andrewshpak/Lessons/Git/GitConsoleApp/obj/Debug/net7.0/GitConsoleApp.pdb
+/Users/andrewshpak/Lessons/Git/GitConsoleApp/obj/Debug/net7.0/GitConsoleApp.genruntimeconfig.cache
+/Users/andrewshpak/Lessons/Git/GitConsoleApp/obj/Debug/net7.0/ref/GitConsoleApp.dll
